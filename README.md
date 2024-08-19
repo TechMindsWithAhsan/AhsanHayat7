@@ -23,14 +23,24 @@
 🌐 https://github.com/AhsanHayat7?tab=repositories
 
 ## Tech Stack
+![HTML](https://img.shields.io/badge/HTML-1572B6?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F61?style=flat&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2D4A7A?style=flat&logo=seaborn&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Data Scientist](https://img.shields.io/badge/Data_Scientist-0093D0?style=flat&logo=data-science&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F61?style=flat&logo=tensorflow&logoColor=white)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![AI](https://img.shields.io/badge/-Artificial_Intelligence-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-4479A1?style=for-the-badge&logo=pytorch&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/-Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
+
 
 
 
