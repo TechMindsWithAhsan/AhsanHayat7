@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=🔮Executive+Production+at+SybexLab;AI+Innovator;Python+Developer;+AI+Skilled+in+Data+Science;+Financial+Mathematics;Full+Stack+Development;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines= 🔮 Executive+Production+at+SybexLab;🌐 Laravel Enthusiast; 🐍 Python+Developer;🤖 AI+Innovator;+🌟 Passionate+Innovator+in⚡ IT & 📈 Project+Management;Full+Stack+Development;+ 💻 Backend+Developer" alt="Typing SVG" />
 </p>
 <div align="center">
   <img src="https://qph.fs.quoracdn.net/main-qimg-ea32077eff40123f1659f8dc332d586b" alt="Animated Coding GIF" width="500px">
