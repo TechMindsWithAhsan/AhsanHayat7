@@ -10,8 +10,7 @@
   <img src="https://qph.fs.quoracdn.net/main-qimg-ea32077eff40123f1659f8dc332d586b" alt="Animated Coding GIF" width="500px">
 </div>
 
-## Executive Production | AI Innovator | Project Management Maestro
-
+## 💻 Backend Developer | 🌐 Laravel Enthusiast | 🌟 Passionate Innovator in⚡ IT & 📈 Project Management | 🤖 AI Innovator | 🔮 Executive Production
 <p align="left">
   <a href="https://www.linkedin.com/in/ahsan-hayat-/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:ahsanhayat9071@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
