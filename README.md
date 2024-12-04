@@ -2,10 +2,12 @@
 
 ## 👋 Welcome to My Digital Workspace
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=22&duration=4000&pause=1000&color=00A0FF&center=true&vCenter=true&width=700&lines=🔮+Executive+Production+%7C+Global+Tech+Innovator;🌐+Full-Stack+Developer+%7C+Backend+Architect;🐍+Python+%26+AI+Specialist;💻+Laravel+Expert+%7C+Solutions+Architect)
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; text-align: center;">
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=22&duration=4000&pause=1000&color=00A0FF&center=true&vCenter=true&width=700&lines=🔮+Executive+Production+%7C+Global+Tech+Innovator;🌐+Full-Stack+Developer+%7C+Backend+Architect;🐍+Python+%26+AI+Specialist;💻+Laravel+Expert+%7C+Solutions+Architect" alt="Typing Animation">
 
-<div align="center">
-  <img src="https://qph.fs.quoracdn.net/main-qimg-ea32077eff40123f1659f8dc332d586b" alt="Animated Coding GIF" width="500px">
+  <!-- Animated Coding GIF -->
+  <img src="https://qph.fs.quoracdn.net/main-qimg-ea32077eff40123f1659f8dc332d586b" alt="Animated Coding GIF" width="700px">
 </div>
 
 ## 💡 About My Journey
